@@ -10,9 +10,11 @@ https://dribbble.com/
 https://openxbi.vercel.app/
 
 #### Roraima 2030
+![image](https://github.com/user-attachments/assets/f37c9f88-52a4-4649-a10d-93f57957cd70)
 https://app.powerbi.com/view?r=eyJrIjoiZDNjZjgwZGQtMmNiYy00NzA5LTlmMDItNmQxMmI2MzI0NDViIiwidCI6IjNhZmRhZWZjLTc0ZjQtNGE4MC1hNGJjLTdmZjQ2OGNhOTUyMyJ9
 
 #### Emendas
+![image](https://github.com/user-attachments/assets/14ab0325-6623-4d59-8542-c6a4e22e0024)
 https://app.powerbi.com/view?r=eyJrIjoiZDBhZWQ1ZDMtNTc3Ni00YjQ3LWExY2ItNzA5OGVhYTgyYzAyIiwidCI6IjNhZmRhZWZjLTc0ZjQtNGE4MC1hNGJjLTdmZjQ2OGNhOTUyMyJ9
 
 ### Supabase
