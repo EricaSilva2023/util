@@ -16,4 +16,7 @@
 ### Supabase
 - https://supabase.com/dashboard/projects
 
+### Outros
+- https://tools.dev.br/
+
 
