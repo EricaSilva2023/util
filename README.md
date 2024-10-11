@@ -2,6 +2,7 @@
 
 ### Cores
 - https://corhexa.com/
+- https://corhexa.com/3f8ca0#previsualizar
 
 ### Designs
 - https://dribbble.com/
