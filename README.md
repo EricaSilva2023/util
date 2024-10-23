@@ -1,11 +1,25 @@
 # Links
 
+### API HTTP
+A simple HTTP Request & Response Service.
+https://httpbin.org
+
 ### Cores
+- https://coolors.co/
 - https://corhexa.com/
 - https://corhexa.com/3f8ca0#previsualizar
 
 ### Designs
 - https://dribbble.com/
+
+### Imagem 
+- https://www.freepik.com/photo-editor/
+- www.iloveimg.com/pt/ampliar-imagem
+- www.canva.com/pt_br/recursos/melhorar-imagem/
+- https://picwish.com/pt/photo-enhancer
+- https://www.pixelcut.ai/t/upscaler
+- https://new.express.adobe.com/
+- https://www.remove.bg/pt-br/uploads
 
 ### PBI
 - https://openxbi.vercel.app/
@@ -17,5 +31,11 @@
 ### Supabase
 - https://supabase.com/dashboard/projects
 
+### Temas PBI 
+- https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery
+
 ### Outros
 - https://tools.dev.br/
+
+
+
